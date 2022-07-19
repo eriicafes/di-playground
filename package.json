@@ -39,7 +39,7 @@
     }
   },
   "dependencies": {
-    "@eriicafes/di": "^0.1.3",
+    "@eriicafes/di": "^0.1.4",
     "reflect-metadata": "^0.1.13"
   }
 }
